@@ -7,7 +7,7 @@
  * Return: 0 if success
  */
 
-init main(void)
+int main(void)
 
 {
 
