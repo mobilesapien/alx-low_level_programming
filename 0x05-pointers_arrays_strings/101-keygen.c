@@ -6,7 +6,7 @@
 /**
  * main - print password
  *
- * Return: 0 Always.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
