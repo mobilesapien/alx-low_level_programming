@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
- * main - print "Proramming is like building a multilingual puzzle"
+ *main - entry point
  *
- * Return: 0 if exited properly, non-zero if otherwise
+ *Return: 0 after printing the function
  */
 int main(void)
 {
-
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }

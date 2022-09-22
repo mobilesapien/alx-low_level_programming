@@ -1,13 +1,11 @@
 #include<unistd.h>
 /**
- * main - prints: "and that piece of art is useful"
- * - Dora Korpar, 2015-10-19
+ * main - prints the standrad error sandwiched around the  standard outpu/t
  *
- * Return: 1 if properly exited, non 1 if otherwise
+ * Return: returns 1
  */
-
 int main(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
-	return (1);
+write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
+return (1);
 }
