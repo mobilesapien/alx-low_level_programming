@@ -3,7 +3,7 @@
 /**
  *main - print with proper grammar, but the outcome is a piece of art,
  *
- * Return: 0 if exited properly, non zero if otherwise
+ *Return: 0 if exited properly, non zero if otherwise
  */
 int main(void)
 {
